@@ -1,0 +1,6 @@
+name: InfectionWars
+author: Zeryther
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.infectionwars.InfectionWars
+depend: [ChestAPI,HolographicDisplays]
